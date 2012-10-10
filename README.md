@@ -18,7 +18,7 @@ app/Pluginディレクトリにファイルを設置して以下をコントロ�
 		'BootstrapAlert.BootstrapAlert',
 	);
 
-以下の記述することでbootstrapアラート仕様のSessionComponent::setFlash()を実行可能
+以下を記述することでbootstrapアラート仕様のSessionComponent::setFlash()を実行可能
 
 
 	// alert-success
