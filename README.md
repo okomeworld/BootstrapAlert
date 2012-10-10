@@ -6,7 +6,7 @@ TwitterBootstrap Plugin for CakePHP2.xに基づいたアラート関連のプラ
 必須プラグイン
 --------------
 
-[TwitterPlugin for CakePHP2.x](https://github.com/slywalker/TwitterBootstrap)
+[TwitterBootstrap Plugin for CakePHP2.x](https://github.com/slywalker/TwitterBootstrap)
 
 使い方
 ------
